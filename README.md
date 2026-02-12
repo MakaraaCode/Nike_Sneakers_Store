@@ -54,7 +54,7 @@ lib/
 
 1. Install Flutter
 2. Clone this repository:
-   git clone https://github.com/yourusername/nike_sneaker_store_flutter.git
+   git clone https://github.com/MakaraaCode/Nike_Sneakers_Store.git
 3. Run:
    flutter pub get
 4. Start emulator or connect device
